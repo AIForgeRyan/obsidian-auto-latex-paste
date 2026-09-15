@@ -1,0 +1,9 @@
+{
+  "id": "auto-latex-paste",
+  "name": "Auto LaTeX Paste",
+  "version": "1.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Automatically adds math delimiters when likely bare LaTeX is pasted into the Markdown editor.",
+  "author": "AIForgeRyan",
+  "isDesktopOnly": true
+}
